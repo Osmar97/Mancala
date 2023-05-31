@@ -1,0 +1,64 @@
+IJ A B
+Jogo iniciado com sucesso.
+DJ
+ B 4 4 4 4 4 4 (0)
+ A 4 4 4 4 4 4 (0)
+J A 1
+Jogada efetuada com sucesso.
+DJ
+ B 4 4 4 4 4 4 (0)
+ A 0 5 5 5 5 4 (0)
+J B 1
+Jogada efetuada com sucesso.
+DJ
+ B 4 5 5 5 5 0 (0)
+ A 0 5 5 5 5 4 (0)
+J A 2
+O jogador A tem direito a outra jogada.
+DJ
+ B 4 5 5 5 5 0 (0)
+ A 0 0 6 6 6 5 (1)
+J A 3
+Jogada efetuada com sucesso.
+DJ
+ B 4 5 5 5 6 1 (0)
+ A 0 0 0 7 7 6 (2)
+J B 2
+Jogada efetuada com sucesso.
+DJ
+ B 5 6 6 6 0 1 (1)
+ A 1 0 0 7 7 6 (2)
+J A 1
+Jogada efetuada com sucesso.
+DJ
+ B 5 0 6 6 0 1 (1)
+ A 0 0 0 7 7 6 (9)
+J B 1
+Jogada efetuada com sucesso.
+DJ
+ B 5 0 6 6 0 0 (9)
+ A 0 0 0 7 0 6 (9)
+J A 4
+Jogada efetuada com sucesso.
+DJ
+ B 5 0 7 7 1 1 (9)
+ A 0 0 0 0 1 7 (10)
+J B 1
+Jogada efetuada com sucesso.
+DJ
+ B 5 0 7 7 2 0 (9)
+ A 0 0 0 0 1 7 (10)
+J A 5
+Jogada efetuada com sucesso.
+DJ
+ B 5 0 7 7 2 0 (9)
+ A 0 0 0 0 0 8 (10)
+J B 2
+Jogada efetuada com sucesso.
+DJ
+ B 5 0 8 8 0 0 (9)
+ A 0 0 0 0 0 8 (10)
+J A 6
+Jogo terminado.
+A 18
+B 30
